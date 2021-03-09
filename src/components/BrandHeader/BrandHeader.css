@@ -4,6 +4,10 @@ header{
   align-items: center;
   margin: 0px;
   padding: 0.8rem;
-  background-color: rgb(47, 29, 150);
+  background-color: rgb(32, 17, 116);
   color: #fff;
+}
+
+body{
+  background-color: rgb(201, 231, 231);
 }

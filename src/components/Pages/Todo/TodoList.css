@@ -1,0 +1,25 @@
+.striked {
+  text-decoration: underline;
+  
+}
+
+.TodoAddNew{
+  background-color: rgb(6, 170, 235);
+  font-size: 25px;
+}
+
+.TodoList{
+  font-size: 25px;
+
+}
+
+.fila{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.iconos{
+  display: flex;
+  flex-direction: row;
+}
